@@ -1,2 +1,2 @@
-# logic-satisfiability-checker
-Propositional Logic satisfiability checker
+# Logic Satisfiability Checker
+Propositional Logic satisfiability checker for COMP0009
